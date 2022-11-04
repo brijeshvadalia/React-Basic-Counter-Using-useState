@@ -48,14 +48,13 @@
 >![BADGE](https://img.shields.io/badge/GIT-GIT-orange)
 >![BADGE](https://img.shields.io/badge/VERCEL-VERCEL-blue)
 
-<!-- 
+
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-># [LIVE [HOSTED] PROJECT LINK]( "React Basic Counter Using useState")
 
 >![Screenshot](./screenshot/screenshot-1.png)
 >![Screenshot](./screenshot/screenshot-2.png)
->![Screenshot](./screenshot/screenshot-3.png) -->
-
+>![Screenshot](./screenshot/screenshot-3.png)
+>![Screenshot](./screenshot/screenshot-4.png)
 
 
 
