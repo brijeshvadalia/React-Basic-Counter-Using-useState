@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom";
-import App from "./app.js";
+import App from "./App.js";
 import './index.css';
 
 const root = ReactDOM.createRoot(document.getElementById('brijesh'));
