@@ -64,7 +64,7 @@
 
 # HAPPY LEARNING 🤩
 >![image](https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Comp-Man.gif)
->## Life is 10% what happens to you and 90% how you `React` to it.
+>##  Dont't worry if it doesn't work right.If everything did, you'd be out of a job.
 
 
 
